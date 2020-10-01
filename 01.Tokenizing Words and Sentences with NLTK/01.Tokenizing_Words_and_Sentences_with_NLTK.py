@@ -1,6 +1,7 @@
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 
+# Sample input text
 EXAMPLE_TEXT = "Hello Mr. Smith, how are you doing today? The weather is great, and Python is awesome. The sky is pinkish-blue. You shouldn't eat cardboard."
 
 #Tokenizing the word
